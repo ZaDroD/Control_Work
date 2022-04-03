@@ -30,3 +30,6 @@ void PrintArray(string[] array)
         Console.Write(item);
     }
 }
+Console.WriteLine();
+Console.WriteLine("Строки из трёх слов :");
+PrintArray(newArray);
